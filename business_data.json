@@ -2,7 +2,7 @@
   {
     "type": "Restaurant",
     "image": [
-      "https://sample-videos.com/img/Sample-jpg-image-100kb.jpg",
+      "https://sample-videos.com/img/Sample-jpg-image-50kb.jpg",
       "https://example.com/photos/4x3/photo.jpg",
       "https://example.com/photos/16x9/photo.jpg"
      ],
@@ -77,7 +77,7 @@
   {
     "type": "Salon",
     "image": [
-      "https://sample-videos.com/img/Sample-jpg-image-100kb.jpg",
+      "https://sample-videos.com/img/Sample-jpg-image-50kb.jpg",
       "https://example.com/photos/4x3/photo.jpg",
       "https://example.com/photos/16x9/photo.jpg"
      ],
@@ -152,7 +152,7 @@
   {
     "type": "Bakery",
     "image": [
-      "https://sample-videos.com/img/Sample-jpg-image-100kb.jpg",
+      "https://sample-videos.com/img/Sample-jpg-image-50kb.jpg",
       "https://example.com/photos/4x3/photo.jpg",
       "https://example.com/photos/16x9/photo.jpg"
      ],
